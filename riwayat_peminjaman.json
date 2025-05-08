@@ -1,0 +1,10 @@
+[
+    {
+        "kategori": "AC",
+        "kode_ruangan": "AC02",
+        "durasi_jam": 1,
+        "harga_per_jam": 15,
+        "total_biaya": 15,
+        "waktu_mulai": "2025-05-08 23:14:57"
+    }
+]
